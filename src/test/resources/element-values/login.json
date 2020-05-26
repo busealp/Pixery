@@ -1,0 +1,88 @@
+[
+  {
+    "key" : "loginButton",
+    "androidValue" : "com.avcrbt.funimate:id/loginButton",
+    "androidType" : "id"
+  },
+  {
+    "key" : "createAccountButton",
+    "androidValue" : "com.avcrbt.funimate:id/createAccountButton",
+    "androidType" : "id"
+  },
+  {
+    "key" : "loginUsernameButton",
+    "androidValue" : "com.avcrbt.funimate:id/usernameEdit",
+    "androidType" : "id"
+  },
+  {
+    "key" : "loginPasswordButton",
+    "androidValue" : "com.avcrbt.funimate:id/passwordEdit",
+    "androidType" : "id"
+  },
+  {
+    "key" : "forgotButton",
+    "androidValue" : "com.avcrbt.funimate:id/forgotTextView",
+    "androidType" : "id"
+  },
+  {
+    "key" : "forgotUsernameButton",
+    "androidValue" : "com.avcrbt.funimate:id/usernameOrMail",
+    "androidType" : "id"
+  },
+  {
+    "key" : "resetPasswordButton",
+    "androidValue" : "com.avcrbt.funimate:id/resetPassword",
+    "androidType" : "id"
+  },
+  {
+    "key" : "loginDoneButton",
+    "androidValue" : "com.avcrbt.funimate:id/action_done",
+    "androidType" : "id"
+  },
+  {
+    "key" : "createAccountEmailButton",
+    "androidValue" : "com.avcrbt.funimate:id/signUpWithMail",
+    "androidType" : "id"
+  },
+  {
+    "key" : "createAccountEmailUserNameButton",
+    "androidValue" : "com.avcrbt.funimate:id/usernameEdit",
+    "androidType" : "id"
+  },
+  {
+    "key" : "createAccountEmailEmailButton",
+    "androidValue" : "com.avcrbt.funimate:id/emailEdit",
+    "androidType" : "id"
+  },
+  {
+    "key" : "createAccountEmailPasswordButton",
+    "androidValue" : "com.avcrbt.funimate:id/passwordEdit",
+    "androidType" : "id"
+  },
+  {
+    "key" : "createAccountEmailDoneButton",
+    "androidValue" : "com.avcrbt.funimate:id/action_done",
+    "androidType" : "id"
+  },
+  {
+    "key" : "createAccountEmailDoneCloseButton",
+    "androidValue" : "com.avcrbt.funimate:id/closeButton",
+    "androidType" : "id"
+  },
+  {
+    "key" : "androidMessageOk",
+    "androidValue" : "android:id/button1",
+    "androidType" : "id"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

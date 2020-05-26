@@ -1,0 +1,58 @@
+# <username> <password> kullanıcısı ile login olunur
+* "5" Saniye Bekle
+* "loginButton" Butonuna Tikla
+* "5" Saniye Bekle
+* "loginUsernameButton" Butonuna Tikla
+* "loginUsernameButton" Textine Yazdir <username>
+* "loginPasswordButton" Butonuna Tikla
+* "loginPasswordButton" Textine Yazdir <password>
+* "loginDoneButton" Butonuna Tikla
+* "5" Saniye Bekle
+
+# Forgot password adımları izlenir
+* "5" Saniye Bekle
+* "loginButton" Butonuna Tikla
+* "5" Saniye Bekle
+* "forgotButton" Butonuna Tikla
+* "5" Saniye Bekle
+* "forgotUsernameButton" Butonuna Tikla
+* "forgotUsernameButton" Textine Yazdir "busealp123"
+
+# Forgot password fail adımları izlenir
+* "5" Saniye Bekle
+* "loginButton" Butonuna Tikla
+* "5" Saniye Bekle
+* "forgotButton" Butonuna Tikla
+* "5" Saniye Bekle
+* "forgotUsernameButton" Butonuna Tikla
+* "forgotUsernameButton" Textine Yazdir "busealp1234"
+* "resetPasswordButton" Butonuna Tikla
+
+# Random mail ve kullanıcı ile üye olunur
+* "5" Saniye Bekle
+* "createAccountButton" Butonuna Tikla
+* "5" Saniye Bekle
+* "createAccountEmailButton" Butonuna Tikla
+* "5" Saniye Bekle
+* "createAccountEmailUserNameButton" Butonuna Tikla
+* "createAccountEmailUserNameButton" li elementi bul, temizle ve rastgele user değerini yaz
+* "createAccountEmailEmailButton" Butonuna Tikla
+* "createAccountEmailEmailButton" li elementi bul, temizle ve rastgele email değerini yaz
+* "createAccountEmailPasswordButton" Butonuna Tikla
+* "createAccountEmailPasswordButton" Textine Yazdir "Deneme1234"
+* "createAccountEmailDoneButton" Butonuna Tikla
+
+
+# Var olan kullanıcı ile üye olunur ve hata alınır
+* "5" Saniye Bekle
+* "createAccountButton" Butonuna Tikla
+* "5" Saniye Bekle
+* "createAccountEmailButton" Butonuna Tikla
+* "5" Saniye Bekle
+* "createAccountEmailUserNameButton" Butonuna Tikla
+* "createAccountEmailUserNameButton" Textine Yazdir "busealp123"
+* "createAccountEmailEmailButton" Butonuna Tikla
+* "createAccountEmailEmailButton" Textine Yazdir "busealp123@gmail.com"
+* "createAccountEmailPasswordButton" Butonuna Tikla
+* "createAccountEmailPasswordButton" Textine Yazdir "Deneme1234"
+* "createAccountEmailDoneButton" Butonuna Tikla
